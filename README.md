@@ -40,9 +40,7 @@ The DP-203 course focuses on data engineering using Microsoft Azure. It covers t
 
 ## Labs
 
-- [Lab 1: Introduction to Azure Synapse Analytics](labs/lab-1/)
-- [Lab 2: Building Data Pipelines](labs/lab-2/)
-- [Lab 3: Data Warehousing with Azure Synapse](labs/lab-3/)
+
 
 ---
 
