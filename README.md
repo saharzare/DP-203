@@ -50,6 +50,8 @@ The DP-203 course focuses on data engineering using Microsoft Azure. It covers t
 - [Recommended Books](resources/books.md)
 
 ---
+## Images
+---
 
 ## How to Use This Repository
 
